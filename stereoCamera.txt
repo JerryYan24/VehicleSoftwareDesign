@@ -1,0 +1,6 @@
+Stereo Camera Model: ZED
+Camera: Dual
+RGB Frame Resolution: 1080p
+RGB Frame Rate: 30 fps
+FOV: 120 degrees
+Depth Frame Rate: 15 fps

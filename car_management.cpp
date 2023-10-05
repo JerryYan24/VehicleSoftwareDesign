@@ -88,7 +88,7 @@ void saveToFile(SmartCar cars[], int count);
 void displayCarInfo(SmartCar car);
 
 int main() {
-    const int carCount = 10;
+    const int carCount = 3;
     SmartCar cars[carCount];
     Student students[carCount];
 

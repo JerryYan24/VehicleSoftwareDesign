@@ -1,0 +1,6 @@
+AGX Kit Model: AGX Xavier
+AI: NVIDIA
+CUDA Cores: 5120
+Tensor Cores: 576
+Memory: 16 GB
+Storage: 512 GB

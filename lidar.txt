@@ -1,0 +1,4 @@
+Lidar Model: HDL-64E
+Channels: 64
+Test Range: 120 meters
+Power Consumption: 10 W

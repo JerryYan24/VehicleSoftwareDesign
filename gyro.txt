@@ -1,0 +1,2 @@
+Gyro Model: MPU-6050
+Manufacturer: InvenSense

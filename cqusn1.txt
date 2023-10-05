@@ -1,0 +1,43 @@
+SmartCar - ID: cqusn1
+Chassis ID: Car 1
+Chassis Model: SCOUT MINI
+Wheelbase: 451mm
+Track: 490mm
+Ground Clearance: 115mm
+Minimum Turning Radius: 0m
+Drive Type: ËÄÂÖËÄÇý
+Max Range: 10KM
+Tires: 
+Tire 1:
+Wheel Model: 
+Wheel Size: 
+Tire 2:
+Wheel Model: 
+Wheel Size: 
+Tire 3:
+Wheel Model: 
+Wheel Size: 
+Tire 4:
+Wheel Model: 
+Wheel Size: 
+AGX Kit Model: AGX Xavier
+AI: NVIDIA
+CUDA Cores: 5120
+Tensor Cores: 576
+Memory: 16 GB
+Storage: 512 GB
+Stereo Camera Model: ZED
+Camera: Dual
+RGB Frame Resolution: 1080p
+RGB Frame Rate: 30 fps
+FOV: 120 degrees
+Depth Frame Rate: 15 fps
+Lidar Model: HDL-64E
+Channels: 64
+Test Range: 120 meters
+Power Consumption: 10 W
+Gyro Model: MPU-6050
+Manufacturer: InvenSense
+Display - Size: 11.6, Model: super
+Battery - Parameters: 24V/15Ah, External Power: 24V, Charging Time: 2H
+Student - ID: 132345, Name: Èø·Ò
